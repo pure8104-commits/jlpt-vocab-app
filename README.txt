@@ -1,0 +1,1 @@
+DAY 18 + DAY 37 통합 PWA. Vercel Drop에 이 폴더를 업로드하세요.
