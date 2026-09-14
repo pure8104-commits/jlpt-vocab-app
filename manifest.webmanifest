@@ -1,1 +1,12 @@
-{"name": "JLPT 일본어 단어", "short_name": "JLPT 단어", "start_url": "/", "scope": "/", "display": "standalone", "background_color": "#f5f7f2", "theme_color": "#4f7a63", "icons": [{"src": "/icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png"}]}
+{
+  "name": "JLPT 일본어 단어·문법",
+  "short_name": "JLPT 일본어",
+  "description": "JLPT 일본어 단어와 문법을 카드, 퀴즈, 복습, 음성으로 공부하는 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f2",
+  "theme_color": "#4f7a63",
+  "lang": "ko",
+  "orientation": "portrait-primary"
+}
